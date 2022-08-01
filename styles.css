@@ -1,6 +1,7 @@
 #title{
     background-color: #ff4c68;
     color: white;
+    text-align: center;
 }
 h1,h2{
     size: 3rem;
@@ -47,6 +48,7 @@ body{
     padding: 7% 15%;
     background-color: #fff;
     position: relative;
+    text-align: center;
 }
 .col-lg-4{
     padding: 5%;
@@ -64,6 +66,7 @@ body{
     padding: 7% 15%;
     background-color: #ef8172;
     color: #fff;
+    text-align: center;
 }
 #testimonial-img{
     width: 20%;
@@ -73,6 +76,7 @@ body{
 #press{
     background-color: #ef8172;
     padding-bottom: 3%;
+    text-align: center;
 }
 .section-logos{
     width: 10%;
@@ -87,6 +91,7 @@ body{
 /* price-section */
 #pricing{
     padding: 100px;
+    text-align: center;
 }
 .card-header,.card-body{
     margin: 10px;
@@ -96,11 +101,13 @@ body{
 #cta{
     background-color: #ff4c68;
     padding: 3% 15%;
+    text-align: center;
 }
 
 /* footer */
 footer{
     padding: 2% 15%;
+    text-align: center;
 }
 #social{
     padding: 15px;
